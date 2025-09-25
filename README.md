@@ -24,7 +24,8 @@ This project demonstrates **CRUD operations** (Create, Read) and provides a **vi
 ## How to Run
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/KhushiRaj3/Library_Management_System.git
+
 ```
 Navigate to project folder:
 ```bash
